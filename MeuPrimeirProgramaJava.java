@@ -10,7 +10,7 @@ class MeuPrimeiroProgramaJava
     int inteiro = 47;
     char caracter = "F";
     double real = 1.65;
-    String frase = " Lucy Mari ";
+    String frase = " Lucy ";
     boolean VF = true;
    
     if (VF == true)
